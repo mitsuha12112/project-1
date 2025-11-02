@@ -1,4 +1,4 @@
 # project-1
-first git repository
+first git repository.
 Author-Gitank chandrakar
 
